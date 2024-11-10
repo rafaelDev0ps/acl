@@ -34,4 +34,4 @@ Each layer serves a specific purpose:
 `ModernOrderService`: Provides clean interface for modern applications  
 `LegacyOrderAdapter`: Handles communication with legacy system  
 `OrderTranslator`: Manages data format conversions  
-`LegacyOrderService `: Represents the external legacy system  
+`LegacyOrderService`: Represents the external legacy system  
